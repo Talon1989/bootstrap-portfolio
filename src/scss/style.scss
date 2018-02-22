@@ -24,6 +24,16 @@ a .fa {
   }
 }
 
+.nopadding{
+  padding: 0 !important;
+  margin: 0 !important;
+}
+
+.input-group-addon {
+  min-width:70px;// if you want width please write here //
+  text-align:left;
+}
+
 //@media (min-width: 1199px) {
 //  .port-item{
 //    padding: 3em !important;
